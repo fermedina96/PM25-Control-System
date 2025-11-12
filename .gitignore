@@ -1,0 +1,12 @@
+# Entornos Virtuales
+venv/
+*.env
+
+# Archivos de caché de Python y VS Code
+__pycache__/
+.pytest_cache/
+.vscode/
+
+# Archivos de logs y datos generados localmente (¡No subas tus datos crudos a GitHub!)
+*.csv
+*.log
